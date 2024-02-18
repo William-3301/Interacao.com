@@ -1,0 +1,55 @@
+*{
+    margin: 10px;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto ;
+}
+
+#intro{
+    background-color: white;
+}
+
+#main{
+    top: 100px;
+    background-color: antiquewhite;
+}
+
+
+h1{
+    color: black;
+    size: 40px;
+    text-align: center;
+}
+
+#Logo{
+    position: absolute;
+    width: 10%;
+    height: 3%;
+    left: 400px;
+}
+
+#text{
+    text-align: center;
+    position: relative;
+    top: 50px;
+    
+}
+
+#mapa{
+    text-align: center;
+    position: relative;
+    top: 50px;
+   
+}
+
+#links{
+    text-align: center;
+    position: relative;
+    top: 150px;
+}
+
+#End{
+    text-align: center;
+    position: relative;
+    top: 200px;
+}
