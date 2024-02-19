@@ -1,17 +1,12 @@
 *{
-    margin: 10px;
+    margin: 5px;
     padding: 0;
     box-sizing: border-box;
     font-family: Roboto ;
 }
 
-#intro{
-    background-color: white;
-}
-
-#main{
-    top: 100px;
-    background-color: antiquewhite;
+body{
+    background-color: rgb(204, 217, 228);
 }
 
 
@@ -38,18 +33,18 @@ h1{
 #mapa{
     text-align: center;
     position: relative;
-    top: 50px;
+    top: 60px;
    
 }
 
 #links{
     text-align: center;
     position: relative;
-    top: 150px;
+    top: 70px;
 }
 
 #End{
     text-align: center;
     position: relative;
-    top: 200px;
+    top: 100px;
 }
